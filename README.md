@@ -7,3 +7,7 @@ I am using lion fish data to map total length (mm) to depth (m)
 This is to analyze if there is a correlation between larger fish swimming deeper in the water
 
 There does not seem to be any significant correlation
+
+Forgot my name, the author of this project 
+
+Norina Haefelin
